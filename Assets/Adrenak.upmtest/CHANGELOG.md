@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/adrenak/upmtest/compare/v2.1.0...v2.1.1) (2022-10-25)
+
+
+### Bug Fixes
+
+* Try to fix UPM git tag step ([fe30119](https://github.com/adrenak/upmtest/commit/fe30119f511d8004c4ad7007f41ef16e3861ac2d))
+
 # [2.1.0](https://github.com/adrenak/upmtest/compare/v2.0.1...v2.1.0) (2022-10-25)
 
 
