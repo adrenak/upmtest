@@ -39,7 +39,6 @@ jobs:
           git commit -am "fix: Samples => Samples~"
         fi
         git push -f -u origin upm@latest
-        git push -f -u origin upm@$version
       env:
         PKG_ROOT: "Assets/Adrenak.upmtest"
 
