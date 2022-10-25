@@ -1,3 +1,10 @@
+## [2.1.5](https://github.com/adrenak/upmtest/compare/v2.1.4...v2.1.5) (2022-10-25)
+
+
+### Bug Fixes
+
+* putting hecomi back ([31f1bfb](https://github.com/adrenak/upmtest/commit/31f1bfb41ff3f77c781e2117ac5941206df5e054))
+
 ## [2.1.4](https://github.com/adrenak/upmtest/compare/v2.1.3...v2.1.4) (2022-10-25)
 
 
