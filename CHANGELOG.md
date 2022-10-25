@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/adrenak/upmtest/compare/v1.4.1...v1.4.2) (2022-10-25)
+
+
+### Bug Fixes
+
+* Checking if we can have 2 changelogs ([95446a0](https://github.com/adrenak/upmtest/commit/95446a0b92597a9a2d27a1011bd81582e6b47f5c))
+
 ## [1.4.1](https://github.com/adrenak/upmtest/compare/v1.4.0...v1.4.1) (2022-10-25)
 
 
