@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/adrenak/upmtest/compare/v1.0.0...v1.1.0) (2022-10-25)
+
+
+### Features
+
+* Dummy has a new feature ([ebe2688](https://github.com/adrenak/upmtest/commit/ebe26882eae726880cc9e64d6270580ca10f61e3))
+
 # 1.0.0 (2022-10-25)
 
 
