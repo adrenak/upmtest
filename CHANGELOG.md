@@ -1,36 +1,3 @@
-# [2.0.0](https://github.com/adrenak/upmtest/compare/v1.5.0...v2.0.0) (2022-10-25)
-
-
-### Bug Fixes
-
-* looks like we can't have two changlogs? ([f840175](https://github.com/adrenak/upmtest/commit/f840175b1ddad063f58a1a66b8d831495e1d190a))
-
-
-### BREAKING CHANGES
-
-* Also testing major release bump with breaking change keyword
-
-# [1.5.0](https://github.com/adrenak/upmtest/compare/v1.4.2...v1.5.0) (2022-10-25)
-
-
-### Features
-
-* Brand new feature ([31c01d6](https://github.com/adrenak/upmtest/commit/31c01d63cd8e921e27025b17127663cafe62c161))
-
-## [1.4.2](https://github.com/adrenak/upmtest/compare/v1.4.1...v1.4.2) (2022-10-25)
-
-
-### Bug Fixes
-
-* Checking if we can have 2 changelogs ([95446a0](https://github.com/adrenak/upmtest/commit/95446a0b92597a9a2d27a1011bd81582e6b47f5c))
-
-## [1.4.1](https://github.com/adrenak/upmtest/compare/v1.4.0...v1.4.1) (2022-10-25)
-
-
-### Bug Fixes
-
-* Checking if we need tags on the top of the file ([9742031](https://github.com/adrenak/upmtest/commit/974203163cf50c61cec7965d951bc2f1d4040bf6))
-
 # [1.4.0](https://github.com/adrenak/upmtest/compare/v1.3.0...v1.4.0) (2022-10-25)
 
 
