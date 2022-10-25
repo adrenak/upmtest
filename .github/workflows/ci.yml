@@ -39,3 +39,14 @@ jobs:
         git push -f -u origin upm
       env:
         PKG_ROOT: "Assets/Adrenak.upmtest"
+
+    - name: Tag name
+        id: tag
+        run: echo ::set-output name=name::${GITHUB_REF#refs/tags/v}
+
+    - name: Create UPM Branches
+        uses: hecomi/create-upm-branch-action@main
+        with:
+          git-tag: ${{ steps.tag.outputs.name }}
+          pkg-root-dir-path: Assets/Adrenak.upmtest
+          main-branch: master
