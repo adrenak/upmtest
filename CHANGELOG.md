@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/adrenak/upmtest/compare/v1.2.2...v1.3.0) (2022-10-25)
+
+
+### Features
+
+* Add hecomi ([08c45a8](https://github.com/adrenak/upmtest/commit/08c45a8108d43b64da988719a0131c149168869c))
+
 ## [1.2.2](https://github.com/adrenak/upmtest/compare/v1.2.1...v1.2.2) (2022-10-25)
 
 
