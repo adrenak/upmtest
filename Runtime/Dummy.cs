@@ -8,6 +8,7 @@ namespace Adrenak.UPMTest {
         // Start is called before the first frame update
         void Start() {
             Debug.Log("Feature 1.1.0");
+            Debug.Log("Feature 1.2.0");
         }
 
         // Update is called once per frame
