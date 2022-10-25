@@ -1,3 +1,10 @@
+## [2.1.6](https://github.com/adrenak/upmtest/compare/v2.1.5...v2.1.6) (2022-10-25)
+
+
+### Bug Fixes
+
+* remove upm@x.x.x push ([5000af6](https://github.com/adrenak/upmtest/commit/5000af69064103be5249eac3e48be736c935b7d0))
+
 ## [2.1.5](https://github.com/adrenak/upmtest/compare/v2.1.4...v2.1.5) (2022-10-25)
 
 
