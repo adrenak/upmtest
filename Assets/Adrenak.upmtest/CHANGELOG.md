@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/adrenak/upmtest/compare/v1.4.0...v1.4.1) (2022-10-25)
+
+
+### Bug Fixes
+
+* Checking if we need tags on the top of the file ([9742031](https://github.com/adrenak/upmtest/commit/974203163cf50c61cec7965d951bc2f1d4040bf6))
+
 # [1.4.0](https://github.com/adrenak/upmtest/compare/v1.3.0...v1.4.0) (2022-10-25)
 
 
