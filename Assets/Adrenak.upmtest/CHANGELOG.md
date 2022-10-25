@@ -1,3 +1,14 @@
+## [1.2.1](https://github.com/adrenak/upmtest/compare/v1.2.0...v1.2.1) (2022-10-25)
+
+
+### Bug Fixes
+
+* Remove Create UPM git tag ([bd945b9](https://github.com/adrenak/upmtest/commit/bd945b99bb3b58cf3a0fbe44d0307bb147804578))
+* Remove hecomi for now ([1dc0182](https://github.com/adrenak/upmtest/commit/1dc01826be054dd9f39b84306bc3241ff350c6ce))
+* roll back more ([cd89739](https://github.com/adrenak/upmtest/commit/cd897397b9338e6eedcc457b5cf5f13d4b86e7d1))
+* Rollback a bit ([b8dd775](https://github.com/adrenak/upmtest/commit/b8dd775a0e50d034800c8af8fb740dcfa36e1d5c))
+* Try to fix hecomi tag format and add "Create UP git tag" step ([ef36ef1](https://github.com/adrenak/upmtest/commit/ef36ef11edeb0cb6907bc1d57e05d572acdac12f))
+
 # [1.2.0](https://github.com/adrenak/upmtest/compare/v1.1.0...v1.2.0) (2022-10-25)
 
 
