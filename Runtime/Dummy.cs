@@ -9,6 +9,7 @@ namespace Adrenak.UPMTest {
         void Start() {
             Debug.Log("Feature 1.1.0");
             Debug.Log("Feature 1.2.0");
+            Debug.Log("Feature 2.0.0");
         }
 
         // Update is called once per frame
