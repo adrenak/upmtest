@@ -1,3 +1,10 @@
+## [2.1.4](https://github.com/adrenak/upmtest/compare/v2.1.3...v2.1.4) (2022-10-25)
+
+
+### Bug Fixes
+
+* Try upm@latest again ([de49cc4](https://github.com/adrenak/upmtest/commit/de49cc4747db5269e41b17da117dc8b6fac002e8))
+
 ## [2.1.3](https://github.com/adrenak/upmtest/compare/v2.1.2...v2.1.3) (2022-10-25)
 
 
