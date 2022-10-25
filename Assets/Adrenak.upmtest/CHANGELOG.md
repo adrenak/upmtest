@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/adrenak/upmtest/compare/v2.0.1...v2.1.0) (2022-10-25)
+
+
+### Features
+
+* Push one more time ([16c833a](https://github.com/adrenak/upmtest/commit/16c833a691b79a4b7ea168783ee1714226e7bf90))
+
 ## [2.0.1](https://github.com/adrenak/upmtest/compare/v2.0.0...v2.0.1) (2022-10-25)
 
 
