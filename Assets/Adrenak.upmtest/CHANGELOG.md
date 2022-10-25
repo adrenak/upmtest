@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/adrenak/upmtest/compare/v1.2.1...v1.2.2) (2022-10-25)
+
+
+### Bug Fixes
+
+* Add "Create UPM git tag" step ([6f64013](https://github.com/adrenak/upmtest/commit/6f6401344a9640298924c06bf9d701a0adb86e37))
+
 ## [1.2.1](https://github.com/adrenak/upmtest/compare/v1.2.0...v1.2.1) (2022-10-25)
 
 
