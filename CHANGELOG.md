@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/adrenak/upmtest/compare/v1.5.0...v2.0.0) (2022-10-25)
+
+
+### Bug Fixes
+
+* looks like we can't have two changlogs? ([f840175](https://github.com/adrenak/upmtest/commit/f840175b1ddad063f58a1a66b8d831495e1d190a))
+
+
+### BREAKING CHANGES
+
+* Also testing major release bump with breaking change keyword
+
 # [1.5.0](https://github.com/adrenak/upmtest/compare/v1.4.2...v1.5.0) (2022-10-25)
 
 
