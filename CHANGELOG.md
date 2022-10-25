@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/adrenak/upmtest/compare/v1.4.2...v1.5.0) (2022-10-25)
+
+
+### Features
+
+* Brand new feature ([31c01d6](https://github.com/adrenak/upmtest/commit/31c01d63cd8e921e27025b17127663cafe62c161))
+
 ## [1.4.2](https://github.com/adrenak/upmtest/compare/v1.4.1...v1.4.2) (2022-10-25)
 
 
