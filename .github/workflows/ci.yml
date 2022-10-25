@@ -39,15 +39,18 @@ jobs:
           git commit -am "fix: Samples => Samples~"
         fi
         git push -f -u origin upm@latest
+        git push -f -u origin upm@$version
       env:
         PKG_ROOT: "Assets/Adrenak.upmtest"
-
-    - name: Create upm@x.x.x branch (hecomi)
-      uses: hecomi/create-upm-branch-action@main
       with:
-        git-tag: ${{steps.semantic.outputs.new_release_version}}
-        pkg-root-dir-path: Assets/Adrenak.upmtest
-        main-branch: master
+        version: ${{steps.semantic.outputs.new_release_version}}
+
+    # - name: Create upm@x.x.x branch (hecomi)
+    #   uses: hecomi/create-upm-branch-action@main
+    #   with:
+    #     git-tag: ${{steps.semantic.outputs.new_release_version}}
+    #     pkg-root-dir-path: Assets/Adrenak.upmtest
+    #     main-branch: master
 
     - name: Create UPM git tag
       if: steps.semantic.outputs.new_release_published == 'true'
