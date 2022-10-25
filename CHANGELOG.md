@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/adrenak/upmtest/compare/v1.3.0...v1.4.0) (2022-10-25)
+
+
+### Features
+
+* Enable NPM publish  ([fd0d908](https://github.com/adrenak/upmtest/commit/fd0d908e0c7887b4acdac3019eeb377dbd4d0849))
+
 # [1.3.0](https://github.com/adrenak/upmtest/compare/v1.2.2...v1.3.0) (2022-10-25)
 
 
