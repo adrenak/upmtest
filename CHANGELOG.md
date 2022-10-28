@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/adrenak/upmtest/compare/v2.2.0...v2.3.0) (2022-10-28)
+
+
+### Features
+
+* some new feature to test org publishing ([dd76c98](https://github.com/adrenak/upmtest/commit/dd76c98848e71ff7cf9a5930a51d4e86f1dc8581))
+
 # [2.2.0](https://github.com/adrenak/upmtest/compare/v2.1.6...v2.2.0) (2022-10-27)
 
 
