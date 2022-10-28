@@ -1,5 +1,5 @@
 {
-	"name": "@adrenakorg/com.adrenak.upmtest",
+	"name": "com.adrenak.upmtest",
 	"version": "2.3.2",
 	"displayName": "Adrenak.upmtest",
 	"description": "some UPM tests",
