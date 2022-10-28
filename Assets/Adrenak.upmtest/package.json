@@ -1,6 +1,6 @@
 {
 	"name": "@adrenakorg/com.adrenak.upmtest",
-	"version": "2.3.1",
+	"version": "2.3.2",
 	"displayName": "Adrenak.upmtest",
 	"description": "some UPM tests",
 	"unity": "2019.4",
