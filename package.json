@@ -10,7 +10,6 @@
 		"url": "http://www.vatsalambastha.com"
 	},
 	"publishConfig": {
-		"access": "public",
-		"registry": "https://npm.pkg.github.com/@adrenak"
+		"registry": "https://npm.pkg.github.com"
 	}
 }
