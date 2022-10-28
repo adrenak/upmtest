@@ -1,5 +1,5 @@
 {
-	"name": "com.adrenak.upmtest",
+	"name": "@adrenak-org/com.adrenak.upmtest",
 	"version": "2.2.0",
 	"displayName": "Adrenak.upmtest",
 	"description": "some UPM tests",
@@ -10,6 +10,7 @@
 		"url": "http://www.vatsalambastha.com"
 	},
 	"publishConfig": {
+		"access": "public",
 		"registry": "https://registry.npmjs.org"
 	}
 }
