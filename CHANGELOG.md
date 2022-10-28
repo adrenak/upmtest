@@ -1,3 +1,10 @@
+## [2.3.3](https://github.com/adrenak/upmtest/compare/v2.3.2...v2.3.3) (2022-10-28)
+
+
+### Bug Fixes
+
+* remove npm org from name ([b82ac8c](https://github.com/adrenak/upmtest/commit/b82ac8ce650c709b5270f7689f902ba0770bc46f))
+
 ## [2.3.2](https://github.com/adrenak/upmtest/compare/v2.3.1...v2.3.2) (2022-10-28)
 
 
