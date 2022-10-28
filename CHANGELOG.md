@@ -1,3 +1,10 @@
+## [2.3.2](https://github.com/adrenak/upmtest/compare/v2.3.1...v2.3.2) (2022-10-28)
+
+
+### Bug Fixes
+
+* Try publishing to github? ([06d6916](https://github.com/adrenak/upmtest/commit/06d6916fac74bd88db746c91a31e8a0bff446319))
+
 ## [2.3.1](https://github.com/adrenak/upmtest/compare/v2.3.0...v2.3.1) (2022-10-28)
 
 
