@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/adrenak/upmtest/compare/v2.3.0...v2.3.1) (2022-10-28)
+
+
+### Bug Fixes
+
+* using npm org adrenakorg ([5b25063](https://github.com/adrenak/upmtest/commit/5b250639895f57dd34291f34c0dd16c9abe65436))
+
 # [2.3.0](https://github.com/adrenak/upmtest/compare/v2.2.0...v2.3.0) (2022-10-28)
 
 
