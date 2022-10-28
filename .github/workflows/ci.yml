@@ -11,15 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        fetch-depth: 0
-        
-    - name: Create UPM git tag
-      if: steps.semantic.outputs.new_release_published == 'true'
-      run: |
-        git tag $TAG upm
-        git push origin --tags
-      env:
-        TAG: upm/v${{ steps.semantic.outputs.new_release_version }}   
+        fetch-depth: 0 
 
     - name: Create/Update upm@latest branch
       run: |
@@ -49,3 +41,11 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         NPM_TOKEN: ${{ secrets.NPM_TOKEN }}        
+        
+    - name: Create UPM git tag
+      if: steps.semantic.outputs.new_release_published == 'true'
+      run: |
+        git tag $TAG upm
+        git push origin --tags
+      env:
+        TAG: upm/v${{ steps.semantic.outputs.new_release_version }}  
