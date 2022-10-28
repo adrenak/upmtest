@@ -1,3 +1,10 @@
+## [2.3.4](https://github.com/adrenak/upmtest/compare/v2.3.3...v2.3.4) (2022-10-28)
+
+
+### Bug Fixes
+
+* add user at the end of registry url ([17abdbc](https://github.com/adrenak/upmtest/commit/17abdbc47fa648c1c6c96c018d2dd3688ea8fb38))
+
 ## [2.3.3](https://github.com/adrenak/upmtest/compare/v2.3.2...v2.3.3) (2022-10-28)
 
 
