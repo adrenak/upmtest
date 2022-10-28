@@ -36,11 +36,9 @@ jobs:
         extra_plugins: |
           @semantic-release/changelog
           @semantic-release/git
-          @semantic-release/npm
         branch: master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        NPM_TOKEN: ${{ secrets.NPM_TOKEN }}        
         
     - name: Create UPM git tag
       if: steps.semantic.outputs.new_release_published == 'true'
