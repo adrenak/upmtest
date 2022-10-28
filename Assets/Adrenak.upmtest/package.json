@@ -8,8 +8,5 @@
 		"name": "Vatsal Ambastha",
 		"email": "ambastha.vatsal@gmail.com",
 		"url": "http://www.vatsalambastha.com"
-	},
-	"publishConfig": {
-		"registry": "https://registry.npmjs.org"
 	}
 }
