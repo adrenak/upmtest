@@ -1,3 +1,10 @@
+## [2.4.2](https://github.com/adrenak/upmtest/compare/v2.4.1...v2.4.2) (2022-10-28)
+
+
+### Bug Fixes
+
+* remove publish config ([252c8e4](https://github.com/adrenak/upmtest/commit/252c8e45c6c0602e2fcccd1d2be4c4f955619032))
+
 ## [2.4.1](https://github.com/adrenak/upmtest/compare/v2.4.0...v2.4.1) (2022-10-28)
 
 
