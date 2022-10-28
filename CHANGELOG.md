@@ -1,3 +1,21 @@
+# [2.4.0](https://github.com/adrenak/upmtest/compare/v2.3.4...v2.4.0) (2022-10-28)
+
+
+### Bug Fixes
+
+* change registry to npm ([ba81032](https://github.com/adrenak/upmtest/commit/ba8103290cd74c1ae83e0626cf79096657bbc0ac))
+* get rid of smaples folder stuff ([4a081c3](https://github.com/adrenak/upmtest/commit/4a081c3671492ba9d9fcb8eb004a7ac16e0b4b83))
+* git tag after semantic ([08b2898](https://github.com/adrenak/upmtest/commit/08b28985f199fd3270a7b50458f821bf0ba6ce99))
+
+
+### Features
+
+* Added Samples directory ([41c3dd7](https://github.com/adrenak/upmtest/commit/41c3dd79f5d6b238899f4e619df5d40edaeabf39))
+* enable npm publish ([a05e95a](https://github.com/adrenak/upmtest/commit/a05e95abed571292fed33f2e75c59b30658b4ae0))
+* remove npm stuff entirely ([ed1942e](https://github.com/adrenak/upmtest/commit/ed1942e307d462697b0076664384e35646bdaa29))
+* tag ([2b7eb63](https://github.com/adrenak/upmtest/commit/2b7eb63a5463876e9d04e7e35a96c83f5765d01d))
+* trigger feature ([72cf8c4](https://github.com/adrenak/upmtest/commit/72cf8c464a63bdfe40d57a110789324d5ca47832))
+
 ## [2.3.4](https://github.com/adrenak/upmtest/compare/v2.3.3...v2.3.4) (2022-10-28)
 
 
