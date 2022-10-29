@@ -1,3 +1,10 @@
+## [2.4.1](https://github.com/adrenak/upmtest/compare/v2.4.0...v2.4.1) (2022-10-29)
+
+
+### Bug Fixes
+
+* try if samples stuff should be at the end ([f92916c](https://github.com/adrenak/upmtest/commit/f92916c1ade8a8ed1376cd899014493f4d0c9f96))
+
 # [2.4.0](https://github.com/adrenak/upmtest/compare/v2.3.4...v2.4.0) (2022-10-28)
 
 
