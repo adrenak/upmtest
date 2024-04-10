@@ -15,16 +15,31 @@ jobs:
         
     - name: Create/Update upm@latest branch
       run: |
+        # Try and delete the upm@latest branch
         git branch -d upm@latest &> /dev/null || echo upm@latest branch not found
+
+        # Make a new branch called upm@latest from the package root
+        # In this repository, the master branch is the root Unity directory
+        # So, we want the upm@latest branch to have only the package contents
+        # at its root. 
         git subtree split -P "$PKG_ROOT" -b upm@latest
+
         git checkout upm@latest
+
+        # If there's a Samples directory
         if [[ -d "Samples" ]]; then
+          # Rename it to Samples~ that allows Unity to detect it as the samples directory
           git mv Samples Samples~
+
+          # Remove the meta file that would have been made on the master branch
           rm -f Samples.meta
+
+          # Commit changes using gitbhub bot user
           git config --global user.name 'github-bot'
           git config --global user.email 'github-bot@users.noreply.github.com'
           git commit -am "fix: Samples => Samples~"
         fi
+        # push the upm@latest branch
         git push -f -u origin upm@latest
       env:
         PKG_ROOT: "Assets/Adrenak.upmtest"
@@ -36,7 +51,6 @@ jobs:
         extra_plugins: |
           @semantic-release/changelog
           @semantic-release/git
-          @semantic-release/npm
         branch: master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
